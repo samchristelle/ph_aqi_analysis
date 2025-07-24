@@ -10,3 +10,6 @@ Using Postgresql for advanced querying, I aimed to answer the following question
 The query for Question 1 was used as a CTE to answer Question 2, and its answer was used as a CTE to answer Question 3. The AQI levels were based on [Openweather's scale](https://openweathermap.org/api/air-pollution).
 
 The results from each of the questions above were saved as separate CSV files and visualized using a Tableau dashboard. The dashboard also provides additional insights such as the correlation between city population and average AQI.
+
+## Tableau Visualization
+View the dashboard [here](https://public.tableau.com/views/Book2_17522219524310/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to see the average air quality index of the major Philippine cities.
